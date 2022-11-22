@@ -29,7 +29,7 @@ function Navbar() {
             </div>
             <div className="flex justify-center items-center space-x-4">
               {/* <span href="tel:5541251234" className="mr-6 text-sm font-medium text-gray-500 dark:text-white hover:underline">(555) 412-1234</span> */}
-              <img src="/image/default-img.png" alt="foto" className="w-10 " />
+              <img src="https://dummyimage.com/400x400/fff/000.png&text=Foto" alt="foto" className="w-10 " />
               <span href="#" className="text-sm font-medium text-blue-600 dark:text-blue-500 hover:underline">Login</span>
             </div>
           </div>

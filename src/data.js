@@ -1,4 +1,4 @@
-const videos = [
+const vidios = [
   {
       "id": "1",
       "title": "Big Buck Bunny",
@@ -28,7 +28,7 @@ const videos = [
   {
       "id": "3",
       "title": "For Bigger Blazes",
-      "thumbnailUrl": "/image/Poster-Mobile-Apps.jpg",
+      "thumbnailUrl": "https://placeimg.com/730/420/nature",
       "duration": "8:18",
       "uploadTime": "May 9, 2011",
       "views": "24,969,123",
@@ -67,7 +67,7 @@ const videos = [
   {
       "id": "6",
       "title": "For Bigger Blazes",
-      "thumbnailUrl": "/image/kids_holiday.jpg",
+      "thumbnailUrl": "https://placeimg.com/730/420/arch",
       "duration": "8:18",
       "uploadTime": "May 9, 2011",
       "views": "24,969,123",
@@ -105,4 +105,4 @@ const videos = [
   }
 ];
 
-export { videos }
+export { vidios }
