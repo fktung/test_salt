@@ -8,7 +8,6 @@ function People() {
     const respont = await fetch('https://dummyjson.com/users')
     const result = await respont.json()
     setPeaople(result.users)
-    console.log(result.users);
   }
 
   useEffect(() => {
